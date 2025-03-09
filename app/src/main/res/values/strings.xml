@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="flag_mode">🚩 Flag Mode</string>
+    <string name="check_mode">✔ Check Mode</string>
+    <string name="minesweeper">MINESWEEPER 💣</string>
+    <string name="game_over">Game Over</string>
+    <string name="congratulations_you_won">Congratulations! You won!</string>
+    <string name="new_game">New Game</string>
+    <string name="number_of">Number of 💣: %1$s</string>
+    <string name="number_of_left">Number of 🚩 Left: %1$s</string>
+    <string name="selected_difficulty">Selected Difficulty: %1$s</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="confirm_selection">Confirm Selection</string>
+</resources>
