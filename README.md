@@ -8,7 +8,7 @@ A modern Minesweeper game built using Jetpack Compose, featuring an intuitive UI
 
 🎨 Dynamic Background Changes – Visual updates based on game state (win/lose).
 
-🔔 Snackbar Notifications – Informative pop-ups for game events.
+🔔 Toasts Notifications – Informative pop-ups for game events.
 
 🎵 Background Music – Adds an immersive experience.
 
